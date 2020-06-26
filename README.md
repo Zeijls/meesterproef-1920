@@ -23,9 +23,9 @@
 
 Glory Days is een toepassing die door middel van autobiografische muziek herinneringen terughaalt en het levensverhaal van de patiënt vastlegt zodat sociale interactie tussen de patiënt en de verzorger, familie en vrienden makkelijk(er) wordt.
 
-# Omschrijving 
+# Omschrijving
 
-Wereldwijd zijn er zo’n 50 miljoen Alzheimer patiënten. Ook in Nederland is het veel voorkomend. De ziekte treft mensen van uiteenlopende leeftijden, maar vooral ouderen krijgen ermee te maken. Alzheimer zorgt ervoor dat de hersenen worden aangetast, waardoor de persoonlijkheid vervaagd en herinneringen verdwijnen. Helaas is er op dit moment nog geen geneesmiddel voor deze slopende ziekte. 
+Wereldwijd zijn er zo’n 50 miljoen Alzheimer patiënten. Ook in Nederland is het veel voorkomend. De ziekte treft mensen van uiteenlopende leeftijden, maar vooral ouderen krijgen ermee te maken. Alzheimer zorgt ervoor dat de hersenen worden aangetast, waardoor de persoonlijkheid vervaagd en herinneringen verdwijnen. Helaas is er op dit moment nog geen geneesmiddel voor deze slopende ziekte.
 
 Omdat de zoektocht naar een geneesmiddel tot nu toe nog geen succes heeft opgeleverd, hebben farmaceuten ervoor gekozen om alle energie te gaan steken in de preventie in plaats van het genezen.
 
