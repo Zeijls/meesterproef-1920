@@ -45,7 +45,7 @@ Bekijk [hier](https://docs.google.com/document/d/1C6x1odMwO2Cvtgix7nsdtX78dHrmNY
 
 ## Product biografie
 
-Bekijk [hier](https://docs.google.com/document/d/1WLTZvnaozR54mjuEAJiTyEz7x85r8EW1nZUzlMftpLw/edit) mijn persoonlijke product biografie!
+Bekijk [hier](https://docs.google.com/document/d/1ZHJ0GPF6hbhFWCe6c8X16jg4N3rA1Qc65oektshCG64/edit?usp=sharing) mijn persoonlijke product biografie!
 
 ## Reflectie
-Bekijk [hier](https://docs.google.com/document/d/1WLTZvnaozR54mjuEAJiTyEz7x85r8EW1nZUzlMftpLw/edit) mijn reflectie
+Bekijk [hier](https://docs.google.com/document/d/1bNbD7UeVxR7ucPIDHdyYyCkGduJTTaK_2oWx45XoTDk/edit?usp=sharing) mijn reflectie
